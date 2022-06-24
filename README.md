@@ -1,2 +1,2 @@
-# Tic-Tac-Toe
+# Tic-Tac-Toe Game
 Talentlabs Javascript project
